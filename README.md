@@ -1,3 +1,4 @@
-# Character-Class-Simulator
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wgqIlHeg)
+# Project6
 
-Developed and implemented abilities, buffs, actions, health, and shields for various characters in a game environment. I managed temporary character buffs using stacks and efficiently handled character actions with queues, ensuring smooth gameplay and dynamic character interactions.
+The specifications for this project are available on Blackboard
